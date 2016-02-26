@@ -11,5 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    //GitHub es mi mejor amigo de la vida
+    //<3
+    //So jarcor
 
 }
